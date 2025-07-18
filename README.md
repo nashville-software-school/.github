@@ -15,7 +15,7 @@
 [Ruby](https://github.com/nashville-software-school/bangazon-ltd)  
 
 # Learning Platform
-[Learning Platform](https://github.com/nashville-software-school/LearningPlatform)
+[Learning Platform](https://github.com/nashville-software-school/LearningPlatform)  
 [LP Client](https://github.com/nashville-software-school/learn-ops-client)  
 [LP API](https://github.com/nashville-software-school/learn-ops-api)  
 
