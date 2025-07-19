@@ -56,16 +56,15 @@
 [Sprinkles of Joy](https://github.com/nashville-software-school/sprinkles-of-joy)  
 
 # Workshops/Collabs
-[React deploy/render](https://github.com/nashville-software-school/react-deploy-render)  
-[React Hooks](https://github.com/nashville-software-school/react-hooks)  
-[Care Bear Chaos - Simple React workshop](https://github.com/nashville-software-school/care-bear-chaos-evening)  
-[EF Core example - Evil Inc](https://github.com/nashville-software-school/EFCore_Example_EVIL_INC)  
-[useContext](https://github.com/nashville-software-school/usecontext-example)  
-[Bucaneer Banter](https://github.com/nashville-software-school/Buccaneers-Banter)  
-[Prompt workshop](https://github.com/nashville-software-school/prompt-workshop-1)  
-[Animal Rescue CSS](https://github.com/nashville-software-school/AnimalRescueCSSWorkshop)  
-[Chatbots Interfaces](https://github.com/nashville-software-school/ChatBots)  
-[Shortcuts](https://github.com/nashville-software-school/MyCommands)  
+[React Hooks - MOVED TO nashville-software-school-workshops]  
+[Care Bear Chaos - Simple React workshop - MOVED TO nashville-software-school-workshops]  
+[EF Core example - Evil Inc - MOVED TO nashville-software-school-workshops]  
+[useContext - MOVED TO nashville-software-school-workshops]   
+[Bucaneer Banter - MOVED TO nashville-software-school-workshops]    
+[Prompt workshop - MOVED TO nashville-software-school-workshops]    
+[Animal Rescue CSS - MOVED TO nashville-software-school-workshops]    
+[Chatbots Interfaces - MOVED TO nashville-software-school-workshops]   
+[Shortcuts - MOVED TO nashville-software-school-workshops]  
 
 # Completed Projects
 [Rock of Ages Client (complete)](https://github.com/nashville-software-school/rock-of-ages-client-solution)  
