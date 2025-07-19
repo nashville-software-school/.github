@@ -1,3 +1,9 @@
+# Affiliated Organizations
+| Name | Description |  
+| [Group Projects](https://github.com/nss-group-projects) | An NSS organization for storing all group projects and assessments |  
+| [Workshops](https://github.com/nashville-software-school-workshops) | An NSS organization for storing all workshops |
+
+
 # Curriculum
 [Jumpstart](https://github.com/nashville-software-school/jumpstart)  
 [Foundations](https://github.com/nashville-software-school/foundations-course)  
