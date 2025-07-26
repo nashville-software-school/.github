@@ -16,13 +16,18 @@
 [SQL](https://github.com/nashville-software-school/sql-professional)  
 [SQL (Key)](https://github.com/nashville-software-school/sql-professional-key)  
 [Vue](https://github.com/nashville-software-school/Vue-Workshop)  
-### Old 
+
+<details>
+  <summary>Old</summary>
+  
 [C#/.NET](https://github.com/nashville-software-school/bangazon-inc)  
 [Front End Web Dev and Design](https://github.com/nashville-software-school/FEWDD-milestones)  
 [Learning Programs](https://github.com/nashville-software-school/learning-programs)  
 [Node](https://github.com/nashville-software-school/bangazon-corp)  
 [Ruby](https://github.com/nashville-software-school/bangazon-ltd)  
 [Webdev foundations](https://github.com/nashville-software-school/web-development-foundations)  
+
+</details>
 
 # Extracurricular Modules
 [AWS deployment instruction](https://github.com/nashville-software-school/aws-deployment-instructions)  
