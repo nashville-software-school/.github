@@ -19,19 +19,19 @@
 ### Old 
 [C#/.NET](https://github.com/nashville-software-school/bangazon-inc)  
 [Front End Web Dev and Design](https://github.com/nashville-software-school/FEWDD-milestones)  
+[Learning Programs](https://github.com/nashville-software-school/learning-programs)  
 [Node](https://github.com/nashville-software-school/bangazon-corp)  
 [Ruby](https://github.com/nashville-software-school/bangazon-ltd)  
 [Webdev foundations](https://github.com/nashville-software-school/web-development-foundations)  
-[Learning Programs](https://github.com/nashville-software-school/learning-programs)  
 
 # Extracurricular Modules
+[AWS deployment instruction](https://github.com/nashville-software-school/aws-deployment-instructions)  
 [git poetry](https://github.com/nashville-software-school/git-poetry)  
 [Github workflow](https://github.com/nashville-software-school/github-workflow)  
 [JS for Java devs](https://github.com/nashville-software-school/js_for_java_devs)  
 [JS testing module](https://github.com/nashville-software-school/js-testing-module)  
 [Responsive blackbirds - JS testing module](https://github.com/nashville-software-school/responsive-black-birds)  
 [Translate C# -> JS -> C#](https://github.com/nashville-software-school/translate-csharp-js)  
-[AWS deployment instruction](https://github.com/nashville-software-school/aws-deployment-instructions)  
 
 # Learning Platform
 [Learning Platform](https://github.com/nashville-software-school/LearningPlatform)  
@@ -57,10 +57,15 @@
 [Creek River Client](https://github.com/nashville-software-school/dotnet-creek-river-client)  
 [Daily Journal Client](https://github.com/nashville-software-school/daily-journal-react-template)  
 [Loncotes Client](https://github.com/nashville-software-school/dotnet-loncotes-client)  
+[Nashville Kennels template](https://github.com/nashville-software-school/nashville-kennels-template)  
 [Ninties TV](https://github.com/nashville-software-school/NinetiesTV)  
+[Rare](https://github.com/nashville-software-school/Rare)  
 [Rare Client Python](https://github.com/nashville-software-school/python-rare-client-template)  
 [Rock of Ages Client](https://github.com/nashville-software-school/rock-of-ages-client)  
+[Sprinkles of Joy](https://github.com/nashville-software-school/sprinkles-of-joy)  
 [Tabloid Client](https://github.com/nashville-software-school/TabloidCLI)  
+[Tiny Treats Client](https://github.com/nashville-software-school/tinytreats-client)  
+[Truncheons & Flagons - Client](https://github.com/nashville-software-school/Tavern)  
 
 ### C#
 [Bangazon boilerplate .NET](https://github.com/nashville-software-school/csharp-bangazonapi-boilerplate)  
@@ -70,8 +75,6 @@
 [Shooting Dice](https://github.com/nashville-software-school/ShootingDice)  
 [Tabloid Prototype](https://github.com/nashville-software-school/TabloidMVC)  
 [Trestlebridge C#](https://github.com/nashville-software-school/Trestlebridge-Farms)  
-[Truncheons & Flagons - Client](https://github.com/nashville-software-school/Tavern)  
-[Truncheons & Flagons - API](https://github.com/nashville-software-school/Tavern-API)  
 
 ### Python
 [Honey Rae's Python](https://github.com/nashville-software-school/honey-rae-django-version)  
@@ -79,11 +82,8 @@
 [Rock of Ages API](https://github.com/nashville-software-school/rock-of-ages-api)  
 [Ships Declarative API](https://github.com/nashville-software-school/declarative-ships-api)  
 [Ships Imperative API](https://github.com/nashville-software-school/imperative-ships-api)  
+[Truncheons & Flagons - API](https://github.com/nashville-software-school/Tavern-API)  
 
-[Nashville Kennels template](https://github.com/nashville-software-school/nashville-kennels-template)  
-[Rare](https://github.com/nashville-software-school/Rare)  
-[Sprinkles of Joy](https://github.com/nashville-software-school/sprinkles-of-joy)  
-[Tiny Treats Client](https://github.com/nashville-software-school/tinytreats-client)  
 
 </details>
 
@@ -96,10 +96,10 @@
 [VS Code debugging example](https://github.com/nashville-software-school/vs-code-debug-example)  
 
 ### Completed Projects
-[Rock of Ages Client (complete)](https://github.com/nashville-software-school/rock-of-ages-client-solution)  
-[Learning moments (complete)](https://github.com/nashville-software-school/Learning-Moments-Complete)  
 [Chuckle checklist (complete)](https://github.com/nashville-software-school/Chuckle-Checklist-Complete)  
 [Honey Raes (complete)](https://github.com/nashville-software-school/Honey-Rea-Complete)
+[Learning moments (complete)](https://github.com/nashville-software-school/Learning-Moments-Complete)  
+[Rock of Ages Client (complete)](https://github.com/nashville-software-school/rock-of-ages-client-solution)  
 
 ### Miscelleneous
 [C# Bangazon boilerplate v1](https://github.com/nashville-software-school/csharp-bangazon-site-boilerplate)  
