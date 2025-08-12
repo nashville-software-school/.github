@@ -1,33 +1,14 @@
-# Affiliated Organizations
-| Name | Description |  
-|------|-------------|  
-| [Group Projects](https://github.com/nss-group-projects) | An NSS organization for storing all group projects and assessments |  
-| [Workshops](https://github.com/nashville-software-school-workshops) | An NSS organization for storing all workshops |
-|  |  |
+## Other courses
 
-
-# Curriculum
 [Jumpstart](https://github.com/nashville-software-school/jumpstart)  
-[Foundations](https://github.com/nashville-software-school/foundations-course)  
-[Client-side](https://github.com/nashville-software-school/client-side-mastery)  
-[C#/.NET](https://github.com/nashville-software-school/server-side-dotnet-curriculum)  
-[Python](https://github.com/nashville-software-school/server-side-python-curriculum)  
-### Professional Development
+
+
+<details>
+  <summary>Table of Contents</summary>
+## Workshops
 [SQL](https://github.com/nashville-software-school/sql-professional)  
 [SQL (Key)](https://github.com/nashville-software-school/sql-professional-key)  
 [Vue](https://github.com/nashville-software-school/Vue-Workshop)  
-
-<details>
-  <summary>Old</summary>
-  
-[C#/.NET](https://github.com/nashville-software-school/bangazon-inc)  
-[Front End Web Dev and Design](https://github.com/nashville-software-school/FEWDD-milestones)  
-[Learning Programs](https://github.com/nashville-software-school/learning-programs)  
-[Node](https://github.com/nashville-software-school/bangazon-corp)  
-[Ruby](https://github.com/nashville-software-school/bangazon-ltd)  
-[Webdev foundations](https://github.com/nashville-software-school/web-development-foundations)  
-
-</details>
 
 # Extracurricular Modules
 [AWS deployment instruction](https://github.com/nashville-software-school/aws-deployment-instructions)  
@@ -54,6 +35,16 @@
 [nss.team](https://github.com/nashville-software-school/nss.team)  
 [Vocabulary Concept Index](https://github.com/nashville-software-school/vocabulary-concept-index)  
 [Website Automator](https://github.com/nashville-software-school/website-automator)  
+
+  
+[C#/.NET](https://github.com/nashville-software-school/bangazon-inc)  
+[Front End Web Dev and Design](https://github.com/nashville-software-school/FEWDD-milestones)  
+[Learning Programs](https://github.com/nashville-software-school/learning-programs)  
+[Node](https://github.com/nashville-software-school/bangazon-corp)  
+[Ruby](https://github.com/nashville-software-school/bangazon-ltd)  
+[Webdev foundations](https://github.com/nashville-software-school/web-development-foundations)  
+
+</details>
 
 <details>
   <summary>Projects</summary>
@@ -135,5 +126,12 @@
 [Tabloid Fullstack](https://github.com/nashville-software-school/TabloidFullStack)  
 [testing lnl](https://github.com/nashville-software-school/testing-lnl)  
 [Wisdom & Grace](https://github.com/nashville-software-school/WisdomAndGrace)  
-
 </details>
+
+#### Affiliated Organizations
+| Name | Description |  
+|------|-------------|  
+| [Group Projects](https://github.com/nss-group-projects) | An NSS organization for storing all group projects and assessments |  
+| [Workshops](https://github.com/nashville-software-school-workshops) | An NSS organization for storing all workshops |
+|  |  |
+
