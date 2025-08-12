@@ -1,16 +1,18 @@
+<details>
+  <summary>Table of Contents</summary>
+
 ## Other courses
 
 [Jumpstart](https://github.com/nashville-software-school/jumpstart)  
-
-
-<details>
-  <summary>Table of Contents</summary>
+  
 ## Workshops
+
 [SQL](https://github.com/nashville-software-school/sql-professional)  
 [SQL (Key)](https://github.com/nashville-software-school/sql-professional-key)  
 [Vue](https://github.com/nashville-software-school/Vue-Workshop)  
 
-# Extracurricular Modules
+## Extracurricular Modules
+
 [AWS deployment instruction](https://github.com/nashville-software-school/aws-deployment-instructions)  
 [git poetry](https://github.com/nashville-software-school/git-poetry)  
 [Github workflow](https://github.com/nashville-software-school/github-workflow)  
@@ -19,12 +21,14 @@
 [Responsive blackbirds - JS testing module](https://github.com/nashville-software-school/responsive-black-birds)  
 [Translate C# -> JS -> C#](https://github.com/nashville-software-school/translate-csharp-js)  
 
-# Learning Platform
+## Learning Platform
+
 [Learning Platform](https://github.com/nashville-software-school/LearningPlatform)  
 [LP Client](https://github.com/nashville-software-school/learn-ops-client)  
 [LP API](https://github.com/nashville-software-school/learn-ops-api)  
 
-# Tools
+## Tools
+
 [Automator Client](https://github.com/nashville-software-school/automator-client)  
 [Class website template](https://github.com/nashville-software-school/class-website-template)  
 [CORS Anywhere](https://github.com/nashville-software-school/cors-anywhere)  
