@@ -97,7 +97,7 @@
 
 ### Completed Projects
 [Chuckle checklist (complete)](https://github.com/nashville-software-school/Chuckle-Checklist-Complete)  
-[Honey Raes (complete)](https://github.com/nashville-software-school/Honey-Rea-Complete)
+[Honey Raes (complete)](https://github.com/nashville-software-school/Honey-Rea-Complete)  
 [Learning moments (complete)](https://github.com/nashville-software-school/Learning-Moments-Complete)  
 [Rock of Ages Client (complete)](https://github.com/nashville-software-school/rock-of-ages-client-solution)  
 
