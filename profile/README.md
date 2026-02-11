@@ -1,7 +1,7 @@
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Table of Contents</summary> 
 
-[Knowledgebase](https://github.com/nashville-software-school/knowledgebase) - Documentation for web dev courses, onboarding and administration 
+[Knowledgebase](https://github.com/nashville-software-school/knowledgebase) - Documentation for web dev courses, onboarding and administration
 
 ## Other courses
 
@@ -35,8 +35,7 @@
 [Class website template](https://github.com/nashville-software-school/class-website-template)  
 [CORS Anywhere](https://github.com/nashville-software-school/cors-anywhere)  
 [Curriculum Bash Scripts](https://github.com/nashville-software-school/course-bash-scripts)  
-[Foundations Auth Proxy](https://github.com/nashville-software-school/foundations-auth-proxy)  
-[Knowledgebase](https://github.com/nashville-software-school/knowledgebase)  
+[Foundations Auth Proxy](https://github.com/nashville-software-school/foundations-auth-proxy)   
 [NSS JSON Server](https://github.com/nashville-software-school/nss-json-server)  
 [nss.team](https://github.com/nashville-software-school/nss.team)  
 [Vocabulary Concept Index](https://github.com/nashville-software-school/vocabulary-concept-index)  
