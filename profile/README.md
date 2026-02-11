@@ -1,6 +1,7 @@
 <details>
   <summary>Table of Contents</summary> 
-
+  
+## Knowledgebase
 [Knowledgebase](https://github.com/nashville-software-school/knowledgebase) - Documentation for web dev courses, onboarding and administration
 
 ## Other courses
