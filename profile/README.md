@@ -1,8 +1,9 @@
 <details>
   <summary>Table of Contents</summary> 
   
-## Knowledgebase
+## Important Links
 [Knowledgebase](https://github.com/nashville-software-school/knowledgebase) - Documentation for web dev courses, onboarding and administration
+[NSS Engineering Control Center](https://github.com/orgs/nashville-software-school/projects/9/views/7) - Project board for NSS development
 
 ## Other courses
 
@@ -138,7 +139,7 @@
 | Name | Description |  
 |------|-------------|  
 | [Group Projects](https://github.com/nss-group-projects) | An NSS organization for storing all group projects and assessments |  
-| [Workshops](https://github.com/nashville-software-school-workshops) | An NSS organization for storing all workshops |  
-| [NSS Engineering Control Center](https://github.com/orgs/nashville-software-school/projects/9/views/7) | NSS Project board |  
+| [WebDev Workshops](https://github.com/nashville-software-school-workshops) | An NSS organization for storing all workshops |  
+| [Protech Workshops](https://github.com/NSS-Workshops) | An NSS organization for continuing education courses |  
 |  |  |
 
