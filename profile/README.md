@@ -2,7 +2,7 @@
   <summary>Table of Contents</summary> 
   
 ## Important Links
-[Knowledgebase](https://github.com/nashville-software-school/knowledgebase) - Documentation for web dev courses, onboarding and administration
+[Knowledgebase](https://github.com/nashville-software-school/knowledgebase) - Documentation for web dev courses, onboarding and administration  
 [NSS Engineering Control Center](https://github.com/orgs/nashville-software-school/projects/9/views/7) - Project board for NSS development
 
 ## Other courses
